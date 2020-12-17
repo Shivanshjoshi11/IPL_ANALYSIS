@@ -8,3 +8,8 @@ Turns out you can!
 (Fixers, please stay away from me)
 
 <h>DATA SET</h>
+I got the data set from kaggle. It has 2 files, deliviries and matches. Matches has all the information starting from match no to the names of umpires. Deliviries has ball to ball information of every match. 
+
+this is the link - https://www.kaggle.com/nowke9/ipldata
+
+
